@@ -1,0 +1,17 @@
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/bin/Release/netstandard2.0/SmartSecurity.deps.json
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/bin/Release/netstandard2.0/SmartSecurity.dll
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/bin/Release/netstandard2.0/ref/SmartSecurity.dll
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/bin/Release/netstandard2.0/SmartSecurity.pdb
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/bin/Release/netstandard2.0/M2Mqtt.Net.dll
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/bin/Release/netstandard2.0/MvcEngine.dll
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/bin/Release/netstandard2.0/MvcEngine.pdb
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/SmartSecurity.AssemblyInfoInputs.cache
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/SmartSecurity.AssemblyInfo.cs
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/SmartSecurity.csproj.CoreCompileInputs.cache
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/XamlC.stamp
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/SmartSecurity.csproj.CopyComplete
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/SmartSecurity.dll
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/ref/SmartSecurity.dll
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/SmartSecurity.pdb
+/Users/vusongtung/Projects/SmartSecurity/SmartSecurity/obj/Release/netstandard2.0/SmartSecurity.csprojAssemblyReference.cache
